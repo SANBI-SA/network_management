@@ -15,8 +15,8 @@ To install, just:
 ansible -u ubuntu -i inventory opennms.yml
 ```
 
-BTW a picture of the SANBI network is [here](sanbi_network.svg):
+BTW a picture of the SANBI network is [here as a SVG](sanbi_network.svg) and below as a png:
 
-![SANBI network diagram](sanbi_network.svg)
+![SANBI network diagram](sanbi_network.png)
 
 (edit with Inkscape)
