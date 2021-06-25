@@ -1,0 +1,28 @@
+---
+opennms_debian_repo_key: 'https://debian.opennms.org/OPENNMS-GPG-KEY'
+opennms_debian_repos:
+  - 'deb https://debian.opennms.org stable main'
+  - 'deb-src https://debian.opennms.org stable main'
+postgresql_debian_pre_reqs:
+  - libpq-dev
+  - python3-dev
+  - python3-pip
+postgresql_version: 13
+
+nginx_selinux_allow_local_connections: true
+nginx_servers:
+  - redirect-ssl
+nginx_enable_default_server: false
+nginx_ssl_servers:
+  - opennms
+nginx_conf_http:
+  client_max_body_size: 1g
+  uwsgi_read_timeout: 600
+
+nginx_remove_default_vhost: true
+nginx_conf_ssl_certificate: /etc/ssl/sanbi/sanbi_fullchain.pem
+nginx_conf_ssl_certificate_key: /etc/ssl/sanbi/sanbi.key
+
+nginx_conf_user: "root"
+
+nginx_dont_install_certificate: true

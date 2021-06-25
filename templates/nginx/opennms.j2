@@ -1,0 +1,31 @@
+# config adapted from https://opennms.discourse.group/t/how-to-use-nginx-as-ssl-proxy-with-opennms-horizon/208
+upstream onms_server {
+    server 127.0.0.1:8980;
+}
+
+server {
+    server_name {{ inventory_hostname }};
+
+    location / {
+        add_header          Front-End-Https on;
+        proxy_set_header    Host $host;
+        proxy_set_header    X-Real-IP $remote_addr;
+        proxy_set_header    X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header    X-Forwarded-Proto $scheme;
+
+        # Enable Web Socket for Browser notification in Horizon 24+
+        proxy_set_header    Upgrade $http_upgrade;
+        proxy_set_header    Connection "Upgrade";
+
+        proxy_pass          http://onms_server;
+        proxy_read_timeout  90;
+
+#        proxy_redirect      http://onms_server;
+    }
+
+    listen 443 ssl;
+    ssl_certificate {{ nginx_conf_ssl_certificate }};
+    ssl_certificate_key {{ nginx_conf_ssl_certificate_key }};
+#    include /etc/letsencrypt/options-ssl-nginx.conf;
+#    ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem;
+}

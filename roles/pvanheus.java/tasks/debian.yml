@@ -1,0 +1,8 @@
+---
+- name: install java
+  apt:
+    name: "{{ item }}"
+    state: present
+  loop: 
+    - openjdk-11-jre-headless
+    - openjdk-11-jdk-headless

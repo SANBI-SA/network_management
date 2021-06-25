@@ -1,0 +1,28 @@
+---
+language: python
+
+python:
+  - "2.7"
+  - "3.6"
+
+services:
+  - docker
+
+install:
+  - pip install molecule docker
+
+before_script:
+  - molecule --version
+  - ansible --version
+
+env:
+  - SCENARIO=default PSQL_VERSION=9.5
+  - SCENARIO=default PSQL_VERSION=9.6
+  - SCENARIO=centos PSQL_VERSION=9.5
+  - SCENARIO=centos PSQL_VERSION=9.6
+
+script:
+  - "molecule test -s $SCENARIO"
+
+notifications:
+  webhooks: https://galaxy.ansible.com/api/v1/notifications/
