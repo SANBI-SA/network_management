@@ -10,15 +10,15 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="461.14798mm"
-   height="547.59613mm"
-   viewBox="0 0 461.14798 547.59613"
+   height="590.4588mm"
+   viewBox="0 0 461.14798 590.4588"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="sanbi_network.svg"
    inkscape:export-filename="/home/pvh/Documents/SANBI/network/sanbi_network.png"
-   inkscape:export-xdpi="179.97714"
-   inkscape:export-ydpi="179.97714">
+   inkscape:export-xdpi="89.986023"
+   inkscape:export-ydpi="89.986023">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="766.43887"
-     inkscape:cy="999.80153"
+     inkscape:cx="784.296"
+     inkscape:cy="190.37356"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -61,7 +61,7 @@
      id="layer1"
      transform="translate(130.02359,154.68847)">
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#00ff00;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 0.37797643,115.19346 H 230.1875"
        id="path819"
        inkscape:connector-curvature="0" />
@@ -242,7 +242,7 @@
        inkscape:connector-curvature="0"
        id="path1036"
        d="M 0.37797643,277.64865 H 230.1875"
-       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       style="fill:none;stroke:#00ff00;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        inkscape:connector-curvature="0"
        id="path1038"
@@ -490,25 +490,25 @@
        style="fill:none;stroke:#000000;stroke-width:0.36470306px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 0.37797643,348.55743 H 230.1875"
+       d="M 0.37797643,391.4202 H 230.1875"
        id="path1231"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="135.08858"
-       y="345.60739"
+       y="388.47055"
        id="text1235"><tspan
          sodipodi:role="line"
          id="tspan1233"
          x="135.08858"
-         y="345.60739"
+         y="388.47055"
          style="stroke-width:0.26458332">192.168.7.0/24</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot1237"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,0,87)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,0,129.86269)"><flowRegion
          id="flowRegion1239"><rect
            id="rect1241"
            width="321.42856"
@@ -582,5 +582,49 @@
          id="flowPara1305">2) OpenStack: </flowPara><flowPara
          id="flowPara1307">  a) os-controller</flowPara><flowPara
          id="flowPara1309">  b) os-compute1 and os-compute2</flowPara><flowPara
-         id="flowPara1311">These use OpenStack Neutron and OpenVSwitch to managed the networking between the VMs and the 192.168.10.0/24 &quot;floating IP&quot; network</flowPara></flowRoot>  </g>
+         id="flowPara1311">These use OpenStack Neutron and OpenVSwitch to managed the networking between the VMs and the 192.168.10.0/24 &quot;floating IP&quot; network</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.81033361px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 63.348801,162.81875 V 340.08958"
+       id="path1186"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1188"
+       d="M 0.37797643,340.61961 H 230.1875"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="135.08858"
+       y="338.72812"
+       id="text1192"><tspan
+         sodipodi:role="line"
+         id="tspan1190"
+         x="135.08858"
+         y="338.72812"
+         style="stroke-width:0.26458332">10.0.0.0/16</tspan></text>
+    <text
+       id="text1196"
+       y="338.72812"
+       x="68.413643"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="338.72812"
+         x="68.413643"
+         id="tspan1194"
+         sodipodi:role="line">10.0.0.1</tspan></text>
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,0,145.73779)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot1210"
+       xml:space="preserve"><flowRegion
+         id="flowRegion1200"><rect
+           y="685.12939"
+           x="877.14288"
+           height="201.42857"
+           width="351.42856"
+           id="rect1198" /></flowRegion><flowPara
+         id="flowPara1202">OpenStack API network</flowPara><flowPara
+         id="flowPara1208">VLAN 101</flowPara></flowRoot>  </g>
 </svg>
