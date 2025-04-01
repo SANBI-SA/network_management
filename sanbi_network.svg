@@ -2,23 +2,23 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="461.14798mm"
    height="590.4588mm"
    viewBox="0 0 461.14798 590.4588"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="sanbi_network.svg"
-   inkscape:export-filename="/home/pvh/Documents/SANBI/network/sanbi_network.png"
+   inkscape:export-filename="sanbi_network.png"
    inkscape:export-xdpi="89.986023"
-   inkscape:export-ydpi="89.986023">
+   inkscape:export-ydpi="89.986023"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -28,21 +28,45 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="784.296"
-     inkscape:cy="190.37356"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="1215.2135"
+     inkscape:cy="439.92143"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1848"
-     inkscape:window-height="1016"
-     inkscape:window-x="72"
-     inkscape:window-y="27"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <sodipodi:guide
+       position="0,590.4588"
+       orientation="0,1742.9215"
+       id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="461.14798,590.4588"
+       orientation="2231.6553,0"
+       id="guide2"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="461.14798,0"
+       orientation="0,-1742.9215"
+       id="guide3"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-2231.6553,0"
+       id="guide4"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -51,7 +75,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,6 +84,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(130.02359,154.68847)">
+    <rect
+       style="fill:#ffffff;stroke-width:0.7"
+       id="rect4"
+       width="457.35117"
+       height="590.3988"
+       x="-130.02359"
+       y="-155.44443" />
     <path
        style="fill:none;stroke:#00ff00;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 0.37797643,115.19346 H 230.1875"
@@ -67,7 +98,7 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="136.1469"
        y="112.24522"
        id="text823"><tspan
@@ -75,17 +106,17 @@
          id="tspan821"
          x="136.1469"
          y="112.24522"
-         style="stroke-width:0.26458332">192.168.2.0/24</tspan></text>
+         style="stroke-width:0.264583">192.168.2.0/24</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="118.6172"
        y="149.21124"
        id="text829"><tspan
          sodipodi:role="line"
          x="118.6172"
          y="149.21124"
-         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
          id="tspan945">dell-switch-b1</tspan></text>
     <flowRoot
        xml:space="preserve"
@@ -106,7 +137,8 @@
          id="flowPara851">VLAN 53</flowPara><flowPara
          id="flowPara855">On:</flowPara><flowPara
          id="flowPara857">1) Network room switches</flowPara><flowPara
-         id="flowPara859">2) 2 x in-blade-enclosure switches</flowPara></flowRoot>    <g
+         id="flowPara859">2) 2 x in-blade-enclosure switches</flowPara></flowRoot>
+    <g
        transform="matrix(0.05899559,0,0,0.05899559,61.918646,117.82728)"
        inkscape:label="Layer 1"
        id="g941">
@@ -143,7 +175,8 @@
            height="51.428562"
            x="311.42856"
            y="106.55796" /></flowRegion><flowPara
-         id="flowPara968">192.168.2.16</flowPara></flowRoot>    <path
+         id="flowPara968">192.168.2.16</flowPara></flowRoot>
+    <path
        inkscape:connector-curvature="0"
        id="path970"
        d="M 0.37797643,183.98556 H 230.1875"
@@ -164,13 +197,14 @@
            height="51.428562"
            width="227.14287"
            id="rect974" /></flowRegion><flowPara
-         id="flowPara978">192.168.6.1</flowPara></flowRoot>    <text
+         id="flowPara978">192.168.6.1</flowPara></flowRoot>
+    <text
        id="text984"
        y="181.56534"
        x="135.08858"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
-         style="stroke-width:0.26458332"
+         style="stroke-width:0.264583"
          y="181.56534"
          x="135.08858"
          id="tspan982"
@@ -191,14 +225,15 @@
          id="flowPara996">2) Legacy Equalogic RAID</flowPara><flowPara
          id="flowPara998">3) Ceph MON servers</flowPara><flowPara
          id="flowPara1000">4) Client-side Ceph OSDs</flowPara><flowPara
-         id="flowPara1032">VLAN 2</flowPara></flowRoot>    <path
+         id="flowPara1032">VLAN 2</flowPara></flowRoot>
+    <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 0.37797643,230.02335 H 230.1875"
        id="path1002"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="135.08858"
        y="225.48558"
        id="text1006"><tspan
@@ -206,7 +241,7 @@
          id="tspan1004"
          x="135.08858"
          y="225.48558"
-         style="stroke-width:0.26458332">192.168.5.0/24</tspan></text>
+         style="stroke-width:0.264583">192.168.5.0/24</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.48209375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 78.694639,162.81875 V 225.5628"
@@ -223,7 +258,8 @@
            height="51.428562"
            x="311.42856"
            y="106.55796" /></flowRegion><flowPara
-         id="flowPara1014">192.168.5.1</flowPara></flowRoot>    <flowRoot
+         id="flowPara1014">192.168.5.1</flowPara></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot1018"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -238,7 +274,8 @@
          id="flowPara1026">1) M1000e CMCs</flowPara><flowPara
          id="flowPara1028">2) Blade server IDRACs</flowPara><flowPara
          id="flowPara1030">3) IPMI (on Supermicro Ceph servers)</flowPara><flowPara
-         id="flowPara1034">VLAN 3</flowPara></flowRoot>    <path
+         id="flowPara1034">VLAN 3</flowPara></flowRoot>
+    <path
        inkscape:connector-curvature="0"
        id="path1036"
        d="M 0.37797643,277.64865 H 230.1875"
@@ -259,13 +296,14 @@
            height="51.428562"
            width="227.14287"
            id="rect1040" /></flowRegion><flowPara
-         id="flowPara1044">192.168.10.1</flowPara></flowRoot>    <text
+         id="flowPara1044">192.168.10.1</flowPara></flowRoot>
+    <text
        id="text1050"
        y="274.16879"
        x="135.08858"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
-         style="stroke-width:0.26458332"
+         style="stroke-width:0.264583"
          y="274.16879"
          x="135.08858"
          id="tspan1048"
@@ -284,7 +322,8 @@
          id="flowPara1078">OpenStack VMs</flowPara><flowPara
          id="flowPara1082">&quot;Floating IPs&quot; on OpenStack</flowPara><flowPara
          id="flowPara1084">public1 network</flowPara><flowPara
-         id="flowPara1086">VLAN 100</flowPara></flowRoot>    <path
+         id="flowPara1086">VLAN 100</flowPara></flowRoot>
+    <path
        inkscape:connector-curvature="0"
        id="path1088"
        d="M 0.37797643,9.3599766 H 230.1875"
@@ -324,9 +363,9 @@
        id="text1104"
        y="5.8826604"
        x="136.1469"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
-         style="stroke-width:0.26458332"
+         style="stroke-width:0.264583"
          y="5.8826604"
          x="136.1469"
          id="tspan1102"
@@ -342,7 +381,8 @@
            height="51.428562"
            width="227.14287"
            id="rect1106" /></flowRegion><flowPara
-         id="flowPara1110">192.168.2.1</flowPara></flowRoot>    <flowRoot
+         id="flowPara1110">192.168.2.1</flowPara></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot1120"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -353,7 +393,8 @@
            height="51.428562"
            x="311.42856"
            y="106.55796" /></flowRegion><flowPara
-         id="flowPara1118">172.20.0.1</flowPara></flowRoot>    <flowRoot
+         id="flowPara1118">172.20.0.1</flowPara></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot1122"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -368,7 +409,8 @@
          id="flowPara1130">VLAN 54</flowPara><flowPara
          id="flowPara1132">(i.e. this shares a VLAN with 192.168.2.0/24)</flowPara><flowPara
          id="flowPara1174">DHCP server</flowPara><flowPara
-         id="flowPara1178">192.168.2.75</flowPara></flowRoot>    <flowRoot
+         id="flowPara1178">192.168.2.75</flowPara></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot1134"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -380,7 +422,8 @@
            x="186.48302"
            y="-103.82783" /></flowRegion><flowPara
          id="flowPara1140">UWCLS_SANBI_DISTR_5A_SW1</flowPara><flowPara
-         id="flowPara1142">aka switch1</flowPara></flowRoot>    <flowRoot
+         id="flowPara1142">aka switch1</flowPara></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot1150"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -391,7 +434,8 @@
            height="51.428562"
            x="311.42856"
            y="106.55796" /></flowRegion><flowPara
-         id="flowPara1148">192.168.2.254</flowPara></flowRoot>    <path
+         id="flowPara1148">192.168.2.254</flowPara></flowRoot>
+    <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 0.37797643,-74.777565 H 230.1875"
        id="path1152"
@@ -428,14 +472,15 @@
            height="60"
            x="851.42859"
            y="-146.29919" /></flowRegion><flowPara
-         id="flowPara1168">firewall</flowPara></flowRoot>    <path
+         id="flowPara1168">firewall</flowPara></flowRoot>
+    <path
        style="fill:none;stroke:#000000;stroke-width:0.35497624px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 78.694639,9.8891394 V 43.906889"
        id="path1170"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="136.1469"
        y="-77.725723"
        id="text1201"><tspan
@@ -443,7 +488,7 @@
          id="tspan1199"
          x="136.1469"
          y="-77.725723"
-         style="stroke-width:0.26458332">192.21.250.33/28</tspan></text>
+         style="stroke-width:0.264583">196.250.33/28</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot1203"
@@ -456,7 +501,8 @@
            x="885.71429"
            y="-697.72778" /></flowRegion><flowPara
          id="flowPara1209">Science DMZ </flowPara><flowPara
-         id="flowPara1265">access network</flowPara></flowRoot>    <path
+         id="flowPara1265">access network</flowPara></flowRoot>
+    <path
        inkscape:connector-curvature="0"
        id="path1211"
        d="M 206.22449,-74.399563 V 43.906889"
@@ -472,7 +518,8 @@
            height="51.428562"
            width="227.14287"
            id="rect1213" /></flowRegion><flowPara
-         id="flowPara1217">192.21.250.36</flowPara></flowRoot>    <flowRoot
+         id="flowPara1217">196.21.250.36</flowPara></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot1227"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -483,7 +530,8 @@
            height="51.428562"
            x="311.42856"
            y="106.55796" /></flowRegion><flowPara
-         id="flowPara1225">192.168.1.182</flowPara></flowRoot>    <path
+         id="flowPara1225">192.168.2.182</flowPara></flowRoot>
+    <path
        inkscape:connector-curvature="0"
        id="path1229"
        d="M 207.812,79.134431 V 115.04215"
@@ -495,7 +543,7 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="135.08858"
        y="388.47055"
        id="text1235"><tspan
@@ -503,7 +551,7 @@
          id="tspan1233"
          x="135.08858"
          y="388.47055"
-         style="stroke-width:0.26458332">192.168.7.0/24</tspan></text>
+         style="stroke-width:0.264583">192.168.7.0/24</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot1237"
@@ -520,7 +568,8 @@
          id="flowPara1247">for communication, hosted</flowPara><flowPara
          id="flowPara1249">in top-of-rack switches</flowPara><flowPara
          id="flowPara1259" /><flowPara
-         id="flowPara1261">All of these servers are also on 192.168.6.0/24 so no routing to this network</flowPara></flowRoot>    <path
+         id="flowPara1261">All of these servers are also on 192.168.6.0/24 so no routing to this network</flowPara></flowRoot>
+    <path
        inkscape:connector-curvature="0"
        id="path1263"
        d="M 0.37797643,-141.98201 H 230.1875"
@@ -529,9 +578,9 @@
        id="text1269"
        y="-147.04634"
        x="136.1469"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
-         style="stroke-width:0.26458332"
+         style="stroke-width:0.264583"
          y="-147.04634"
          x="136.1469"
          id="tspan1267"
@@ -552,7 +601,8 @@
            height="51.428562"
            x="311.42856"
            y="106.55796" /></flowRegion><flowPara
-         id="flowPara1277">10.8.0.1</flowPara></flowRoot>    <flowRoot
+         id="flowPara1277">10.8.0.1</flowPara></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot1281"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -563,7 +613,8 @@
            height="132.85715"
            x="880"
            y="-919.15631" /></flowRegion><flowPara
-         id="flowPara1287">SANBI VPN network</flowPara></flowRoot>    <flowRoot
+         id="flowPara1287">SANBI VPN network</flowPara></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot1289"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -582,7 +633,8 @@
          id="flowPara1305">2) OpenStack: </flowPara><flowPara
          id="flowPara1307">  a) os-controller</flowPara><flowPara
          id="flowPara1309">  b) os-compute1 and os-compute2</flowPara><flowPara
-         id="flowPara1311">These use OpenStack Neutron and OpenVSwitch to managed the networking between the VMs and the 192.168.10.0/24 &quot;floating IP&quot; network</flowPara></flowRoot>    <path
+         id="flowPara1311">These use OpenStack Neutron and OpenVSwitch to managed the networking between the VMs and the 192.168.10.0/24 &quot;floating IP&quot; network</flowPara></flowRoot>
+    <path
        style="fill:none;stroke:#000000;stroke-width:0.81033361px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 63.348801,162.81875 V 340.08958"
        id="path1186"
@@ -594,7 +646,7 @@
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="135.08858"
        y="338.72812"
        id="text1192"><tspan
@@ -602,14 +654,14 @@
          id="tspan1190"
          x="135.08858"
          y="338.72812"
-         style="stroke-width:0.26458332">10.0.0.0/16</tspan></text>
+         style="stroke-width:0.264583">10.0.0.0/16</tspan></text>
     <text
        id="text1196"
        y="338.72812"
        x="68.413643"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
-         style="stroke-width:0.26458332"
+         style="stroke-width:0.264583"
          y="338.72812"
          x="68.413643"
          id="tspan1194"
@@ -626,5 +678,6 @@
            width="351.42856"
            id="rect1198" /></flowRegion><flowPara
          id="flowPara1202">OpenStack API network</flowPara><flowPara
-         id="flowPara1208">VLAN 101</flowPara></flowRoot>  </g>
+         id="flowPara1208">VLAN 101</flowPara></flowRoot>
+  </g>
 </svg>
